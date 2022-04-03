@@ -4,8 +4,7 @@ Try out, using folium to create a HTML file (map.html) displaying different indi
 
 # Links
 
-[https://github.com/stephansemerad/choropleth_maps_with_folium](https://github.com/stephansemerad/choropleth_maps_with_folium)
-
+[https://github.com/stephansemerad/choropleth_maps_with_folium](https://github.com/stephansemerad/choropleth_maps_with_folium) <br>
 [https://www.kaggle.com/datasets/kaggle/world-development-indicators?resource=download](https://www.kaggle.com/datasets/kaggle/world-development-indicators?resource=download)
 
 # Install
