@@ -16,6 +16,6 @@ python -m pip install -r requirements.txt
 
 # How To Use
 
-Just run the main.py file
+Get the indicators.csv from kaggle put it in the /data folder and then run the main.py file
 
 ![](https://github.com/stephansemerad/choropleth_maps_with_folium/master/imgs/img.png)
