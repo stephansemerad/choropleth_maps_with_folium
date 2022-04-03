@@ -1,4 +1,4 @@
-# Choropleth Maps with folium
+# Choropleth Maps with Folium
 
 Try out, using folium to create a HTML file (map.html) displaying different indicators.
 
